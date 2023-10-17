@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/doughCalc/static/css/main.11391da3.css",
+    "main.js": "/doughCalc/static/js/main.c0391440.js",
+    "static/js/787.3a33840f.chunk.js": "/doughCalc/static/js/787.3a33840f.chunk.js",
+    "static/media/Caputo_1kg.jpg": "/doughCalc/static/media/Caputo_1kg.669a591b499bc9d24a59.jpg",
+    "index.html": "/doughCalc/index.html",
+    "main.11391da3.css.map": "/doughCalc/static/css/main.11391da3.css.map",
+    "main.c0391440.js.map": "/doughCalc/static/js/main.c0391440.js.map",
+    "787.3a33840f.chunk.js.map": "/doughCalc/static/js/787.3a33840f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11391da3.css",
+    "static/js/main.c0391440.js"
+  ]
+}
