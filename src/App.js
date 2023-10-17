@@ -12,7 +12,7 @@ function App() {
       <Header />
       {shopCart && <ShopCart />}
       <Routes>
-        <Route path="/" element={<Calculator />} />
+        <Route path="/doughCalc" element={<Calculator />} />
         <Route path="/Ingredients" element={<Ingredients />} />
         <Route path="/Sklep" element={<ShopPage />} />
         <Route path="/Sklep/:idProduct" element={<SingleProduct />} />
