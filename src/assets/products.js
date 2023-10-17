@@ -1,0 +1,58 @@
+import caputo from "./img/Caputo_1kg.jpg";
+
+export const products = [
+  {
+    id: 1,
+    name: "Mąka Caputo",
+    price: 20,
+    stock: 3,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos tenetur repellendus fugiat cumque et in deserunt reiciendis, natus, officia eius veniam eaque ullam? Praesentium distinctio ut doloribus, numquam vero quos!",
+    amount: 1,
+    img: caputo,
+  },
+  {
+    id: 2,
+    name: "Mąka Caputo Blue",
+    price: 18,
+    stock: 15,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos tenetur repellendus fugiat cumque et in deserunt reiciendis, natus, officia eius veniam eaque ullam? Praesentium distinctio ut doloribus, numquam vero quos!",
+    amount: 1,
+    img: caputo,
+  },
+  {
+    id: 3,
+    name: "Mąka Caputo Red",
+    price: 10,
+    stock: 105,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos tenetur repellendus fugiat cumque et in deserunt reiciendis, natus, officia eius veniam eaque ullam? Praesentium distinctio ut doloribus, numquam vero quos!",
+    amount: 1,
+    img: caputo,
+  },
+  {
+    id: 4,
+    name: "Mąka Caputo Green",
+    price: 14,
+    stock: 174,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos tenetur repellendus fugiat cumque et in deserunt reiciendis, natus, officia eius veniam eaque ullam? Praesentium distinctio ut doloribus, numquam vero quos!",
+    amount: 1,
+    img: caputo,
+  },
+  {
+    id: 5,
+    name: "Mąka Caputo Green",
+    price: 12,
+    stock: 34,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos tenetur repellendus fugiat cumque et in deserunt reiciendis, natus, officia eius veniam eaque ullam? Praesentium distinctio ut doloribus, numquam vero quos!",
+    amount: 1,
+    img: caputo,
+  },
+  {
+    id: 6,
+    name: "Mąka Caputo Green",
+    price: 12,
+    stock: 64,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos tenetur repellendus fugiat cumque et in deserunt reiciendis, natus, officia eius veniam eaque ullam? Praesentium distinctio ut doloribus, numquam vero quos!",
+    amount: 1,
+    img: caputo,
+  },
+];
