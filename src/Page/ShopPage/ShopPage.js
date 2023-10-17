@@ -106,9 +106,6 @@ const Wrapper = styled.div`
         .product {
           width: 33%;
           margin: 0 0 70px 0;
-          :last-child {
-            margin-right: auto;
-          }
         }
 
         .img {
